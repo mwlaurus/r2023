@@ -1,2 +1,6 @@
 # r2023
-Projekt w R
+# Projekt w R
+# Autor: Maciej Wawrzynek
+
+
+
